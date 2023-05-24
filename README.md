@@ -1,7 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Prashant Bhattacharya</h1>
+<h1 align="center"> Hola, 👋 I'm Prashant Bhattacharya</h1>
 
 <p align="justify">
 I'm an excited and Tech-driven undergrad from the Shri Shankaracharya Technical Campus. I am aspiring
